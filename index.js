@@ -5,7 +5,7 @@ document.getElementById("signin").addEventListener("click", () => {
 
     if (userBtn === "admin" && passBtn === "admin123") {
     alert("login success");
-    window.location.replace("/home.html");
+    window.location.replace("home.html");
   } else {
     alert("login failed");
     return;
