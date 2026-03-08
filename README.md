@@ -30,6 +30,7 @@
 
 
 
+
 2️⃣ What is the spread operator (...)?
 
 #ans: The spread operator (...) is used to expand elements of arrays, objects, or iterables. It is commonly used for copying arrays, merging arrays or objects, and passing multiple values into functions. It makes JavaScript code cleaner and more efficient
@@ -57,6 +58,8 @@ b. Elements that do not meet the condition are excluded.
 
 
 
+
+
 4️⃣ What is an arrow function?
 #ans:
 An arrow function is a shorter and more modern way to write functions in JavaScript. It was introduced in ES6 (ECMAScript 2015) and uses the arrow (=>) syntax.
@@ -71,6 +74,9 @@ b. Does not have its own this context; it inherits this from the surrounding sco
 c. Commonly used with array methods like map(), filter(), and forEach().
 
 An arrow function is a modern and concise way to write functions in JavaScript. It simplifies function syntax and is widely used in modern JavaScript development.
+
+
+
 
 
 5️⃣ What are template literals?
